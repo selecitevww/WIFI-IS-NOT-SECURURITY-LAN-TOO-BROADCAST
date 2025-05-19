@@ -14,6 +14,10 @@ YOU ONLY SNIFF OWN TRAFFIC WITH HELP PROGRAMS:
 OK!
 
 
+WIFI FOR USUALLY HUMANS IS EXTERNAL EXPLOIT his may activate's anyone who understanding linux, hashcat IT IS VERY BAD FOR ALL, because it thing is every home!
+
+
+
 
 
 

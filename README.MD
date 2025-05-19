@@ -10,7 +10,7 @@ IN OS "WINDOWS", FOR EXAMPLE FIREWALL ACCESS 4 LEVEL.
 1 , 2 ,3 - FOR us (для нас не доступны никогда) NOT WATCH NEVER ....
 
 YOU ONLY SNIFF OWN TRAFFIC WITH HELP PROGRAMS:
-
+ - "WIRESHARK"(old program may be not work, work for http protocol)
 OK!
 
 
